@@ -1,0 +1,373 @@
+
+{
+    "timeline":
+    {
+        "headline":"Dandi March",
+        "type":"default",
+		"text":"<b>Salt Satyagraha led by Gandi</b> <br><br>On 12 March 1930  Gandhi led the Dandi march from his base, Sabarmati Ashram near Ahmedabad, to the coastal village of Dandi, located at a small town called Navsari, in the state of Gujarat. In his 24-day, 240-mile (390 km) march to produce salt without paying the tax, growing numbers of Indians joined him along the way. <br><br> It was a direct action campaign of tax resistance and nonviolent protest against the British salt monopoly in colonial India. It sparked large scale acts of civil disobedience against the British Raj salt laws by millions of Indians. The campaign had a significant effect on changing world and British attitude towards Indian independence and caused large numbers of Indians to join the fight for the first time. <br><br>We in this time line map of Dandi March will follow the path which Gandhi took from Sabarmati to Dandi. <br><br><br>Created By <a href=\"http://thejeshgn.com\" target='_new' title=\"Thejesh GN Project\">Thejesh GN</a> <br> Report issues or suggestions on <a href='https://github.com/thejeshgn/dandimarch/issues' target='_new'>GitHub</a> <div style='background-image: url(unnamed.png); background-repeat:repeat-x; height:50px' ></div>",
+		"startDate":"1930,1,26",
+        "date": [
+            {
+                "startDate":"1929,12,31",
+                "headline":"Purna Swaraj",
+                "text":"The flag of India had been hoisted by Congress President Jawaharlal Nehru on 31 December 1929, on the banks of the Ravi River in Lahore, modern-day Pakistan. The Congress asked the people of India to observe 26 January as Independence Day. The flag of India was hoisted publicly across India by Congress volunteers, nationalists and the public.",
+		        "tag":"",
+                "lat":"31.5925",
+                "lng":"74.3095",
+                "place":"Banks of the Ravi at Lahore.",
+                "asset":
+                {
+                    "media":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1931_Flag_of_India.svg/900px-1931_Flag_of_India.svg.png",
+                    "credit":"Wikipedia",
+		            "thumbnail":"http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/1931_Flag_of_India.svg/900px-1931_Flag_of_India.svg.png",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1930,1,10",
+                "endDate":"",
+                "headline":"Draft Declaration for January 26",
+                "text":"",
+                "tag":"",
+                "lat":"31.5925",
+                "lng":"74.3095",
+                "place":"Lahore.",
+                "asset":
+                {
+                    "media":"vol_42_en_413.jpg",
+                    "credit":"AICC",
+                    "thumbnail":"vol_42_en_413.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/412/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },  
+
+            {
+                "startDate":"1930,1,22",
+                "endDate":"",
+                "headline":"Daily Express - Interview",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Sabarmati, Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_42_en_447.jpg",
+                    "credit":"Daily Express",
+                    "thumbnail":"vol_42_en_447.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/446/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },  
+
+            {
+                "startDate":"1930,1,23",
+                "endDate":"",
+                "headline":"Things to Remember for 26th",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Sabarmati, Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_42_en_454.jpg",
+                    "credit":"Young India",
+                    "thumbnail":"vol_42_en_454.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/456/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },  
+
+
+	       {
+                "startDate":"1930,1,26",
+		        "endDate":"1930,1,26",
+                "headline":"Declaration of Independence",
+                "text":"",
+                "tag":"",
+                "lat":"31.5925",
+                "lng":"74.3095",
+                "place":"Lahore",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"AICC",
+                    "thumbnail":"",
+                    "caption":""
+                }
+            },
+            {
+                "startDate":"1930,2,15",
+                "endDate":"1930,2,15",
+                "headline":"First act of civil disobedience,",
+                "text":"Adopted on 15 Feb 1930 in Ahmedabad, The Congress Working Committee gave Gandhi the responsibility for organising the first act of civil disobedience.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_42_en_508.jpg",
+                    "credit":"AICC",
+                    "thumbnail":"vol_42_en_508.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/508/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,2,20",
+                "endDate":"1930,2,20",
+                "headline":"&quot;At present the prospect of a salt campaign does not keep me awake at night&quot;",
+                "text":"Lord Irwin - The Viceroy of British India"
+
+            },            
+            {
+                "startDate":"1930,2,23",
+                "endDate":"1930,2,23",
+                "headline":"Some rules of Satyagraha",
+                "text":"Gujarati original of this appeared in Navajivan",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_42_en_519.jpg",
+                    "credit":"Gandi, Navajivan",
+                    "thumbnail":"vol_42_en_519.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/518/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,2,27",
+                "endDate":"1930,2,27",
+                "headline":"Salt Tax",
+                "text":"Gandi writing about salt tax in Young India.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_42_en_529.jpg",
+                    "credit":"Gandi, Young India",
+                    "thumbnail":"vol_42_en_529.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDI=#page/528/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,3,3",
+                "endDate":"1930,3,3",
+                "headline":"Letter to Lord Irvin",
+                "text":"Gandi sends a letter to inform Irvin about his planned civil disobedience movement",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_36.jpg",
+                    "credit":"Gandi, Young India",
+                    "thumbnail":"vol_43_en_36.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/36/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 42: October-1929 : February-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,3,7",
+                "endDate":"1930,3,7",
+                "headline":"Sardar Vallabhbhai gets arrested",
+                "text":"Sardar Vallabhbhai gets arrested and sentenced.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad."
+            },
+
+            {
+                "startDate":"1930,3,8",
+                "endDate":"1930,3,8",
+                "headline":"Speech at Ahmedabad",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_61.jpg",
+                    "credit":"Gandi",
+                    "thumbnail":"vol_43_en_61.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/60/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+
+            {
+                "startDate":"1930,3,9",
+                "endDate":"1930,3,9",
+                "headline":"The Final Test",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_65.jpg",
+                    "credit":"Navajivan",
+                    "thumbnail":"vol_43_en_65.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/66/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+
+            {
+                "startDate":"1930,3,9",
+                "endDate":"1930,3,9",
+                "headline":"Satyagahi's march",
+                "text":"Itinerary of Dandi March published by Navajivan for people to join.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_67.jpg",
+                    "credit":"Navajivan",
+                    "thumbnail":"vol_43_en_67.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/66/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,3,11",
+                "endDate":"1930,3,11",
+                "headline":"Interview to H.D Rajah",
+                "text":"Published by The Bombay Chronicle on 12th, starting day of Dandi march.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_72.jpg",
+                    "credit":"The Bombay Chronicle",
+                    "thumbnail":"vol_43_en_72.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/72/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,3,12",
+                "endDate":"1930,3,12",
+                "headline":"Viceroy's Reply",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_85.jpg",
+                    "credit":"Young India",
+                    "thumbnail":"vol_43_en_85.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/84/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+
+            {
+                "startDate":"1930,3,12,6,0",
+                "endDate":"1930,3,12,6,0",
+                "headline":"Morning prayer meet",
+                "text":"On the morning of 12th, just before the start. As noted by Mahadev Desai in his dairy",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Sabarmati, Ahmedabad.",
+                "asset":
+                {
+                    "media":"vol_43_en_93.jpg",
+                    "credit":"Gandi",
+                    "thumbnail":"vol_43_en_93.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/92/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+            {
+                "startDate":"1930,3,12,6,30",
+                "endDate":"1930,3,12,6,30",
+                "headline":"The March starts",
+                "text":"",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Sabarmati, Ahmedabad.",
+                "asset":
+                {
+                    "media":"CA_Salt March_Gandhi.jpg",
+                    "credit":"Gandi",
+                    "thumbnail":"CA_Salt March_Gandhi.jpg",
+                    "caption":"Gandhi during the Salt March, March 1930."
+                }
+            },
+            {
+                "startDate":"1930,3,12,8,30",
+                "endDate":"1930,3,12,8,30",
+                "headline":"First stop Chandola",
+                "text":"Gandi's partimg message at Chandola",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Chandola",
+                "asset":
+                {
+                    "media":"vol_43_en_95.jpg",
+                    "credit":"The Bombay Chronicle",
+                    "thumbnail":"vol_43_en_95.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/95/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+
+            {
+                "startDate":"1930,3,12,18,0",
+                "endDate":"1930,3,12,18,0",
+                "headline":"Speech at Aslali",
+                "text":"The first day's march of 21 kilometres (13 mi) ended in the village of Aslali, where Gandhi spoke to a crowd of about 4,000.",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Aslali",
+                "asset":
+                {
+                    "media":"vol_43_en_97.jpg",
+                    "credit":"Gandi, Navajivan",
+                    "thumbnail":"vol_43_en_97.jpg",
+                    "caption":"<a href='https://www.gandhiheritageportal.org/cwmg_volume_thumbview/NDM=#page/96/mode/2up'>The Collected Works of Mahatma Gandi - Vol. 43: March-1930 : June-1930</a>"
+                }
+            },
+
+
+            {
+                "startDate":"1930,1,26",
+                "endDate":"1930,1,26",
+                "headline":"The Statesman, Calcutta's British owned paper",
+                "text":"<blockquote>&quot;It is difficult not to laugh, and we imagine that will be the mood of most thinking Indians.&quot;</blockquote>",
+                "tag":"",
+                "lat":"",
+                "lng":"",
+                "place":"Calcutta",
+                "asset":
+                {
+                    "media":"",
+                    "credit":"The Statesman, Calcutta's British owned paper",
+                    "thumbnail":"",
+                    "caption":""
+                }
+            },
+
+
+
+            {
+                "startDate":"1930,1,26",
+                "endDate":"1930,1,26",
+                "headline":"The Congress leadership",
+                "text":"<blockquote> Motilal and Jawaharlal Nehru being initially unpersuaded and Gandhiji's ‘right arm,' Sardar Vallabhbhai Patel, who wanted a land revenue boycott instead, not concealing his scepticism of salt.</blockquote>"
+
+            }
+
+        ]
+    }
+}
